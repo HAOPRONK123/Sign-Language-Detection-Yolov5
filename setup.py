@@ -7,6 +7,5 @@ setup(
     author= 'Hoang Hao',
     author_email= 'haopronk123@gmail.com',
     packages= find_packages(),
-    install_requires = []del index.lock
-
+    install_requires = []
 )
